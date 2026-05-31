@@ -1,5 +1,4 @@
 .venv/
-diabetes/
-hypertension/
-ventilator/
+data/
 plan/
+doc/
